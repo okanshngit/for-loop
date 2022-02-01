@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JnhqwzaefWqPqIRvR6mw/YLtTORo2BdX9V0UAF/1+kaPUJ6Y5ifVPFSx5rec74Da8FunJefrraWW9sv8sK0OdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\okans\\Desktop\\pratikler\\for-loop\\for-loop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\okans\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\okans\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
